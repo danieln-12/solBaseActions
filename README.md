@@ -1,2 +1,2 @@
-# Contracts
-Game theory application on solidity 
+# Contracts Application
+solidity foundation improvements,
